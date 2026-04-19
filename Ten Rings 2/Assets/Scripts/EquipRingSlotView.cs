@@ -1,14 +1,3 @@
-using TMPro;
-using UnityEngine;
-using UnityEngine.UI;
-
-/// <summary>
-/// One equipped ring slot: icon area for ring art (or empty placeholder) + guide text (finger / index).
-/// </summary>
-public class EquipRingSlotView : MonoBehaviour
-{
-    [HideInInspector] public int slotIndex;
-
-    public Image ringIcon;
-    public TextMeshProUGUI guideLabel;
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:f68ef1f4ded18f6575bcc6143793af9e6f43d5aa5dc45d97eb5ee25186e58373
+size 481
